@@ -1,7 +1,7 @@
 ### Olá! Sou Caio César 👋
 
 - 🔭 Trabalho atualmente como vendedor mas sonho em trabalhar como desenvolvedor
-- 🌱 Estudando React
+- 🌱 Estudando e se aprimorando :D
 
 <div align="center">
   <a href="https://github.com/CaioCsar">
