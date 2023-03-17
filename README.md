@@ -1,6 +1,5 @@
 ### Olá! Sou Caio César 👋
 
-- 🔭 Trabalho atualmente como vendedor mas sonho em trabalhar como desenvolvedor
 - 🌱 Estudando e me aprimorando :D
 
 <div align="center">
