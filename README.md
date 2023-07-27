@@ -1,4 +1,4 @@
-### Hi! My name is Caio César and i want to be a Web Developer 👋
+### Hi! My name is Caio César and I want to be a Web Developer 👋
 
 - Development sites with HTML, CSS and JavaScript
 - Some frameworks like BootStrap
