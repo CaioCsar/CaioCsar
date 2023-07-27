@@ -1,6 +1,8 @@
-### Olá! Sou Caio César 👋
+### Hi! My name is Caio César and i want to be a Web Developer 👋
 
-- 🌱 Estudando e me aprimorando :D
+- Development sites with HTML, CSS and JavaScript
+- Some frameworks like BootStrap
+- 🌱 Studyng ASP.Net MVC
 
 <div align="center">
   <a href="https://github.com/CaioCsar">
